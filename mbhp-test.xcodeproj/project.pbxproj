@@ -15,6 +15,7 @@
 		40C696091EA98FCD00DECC1A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 40C696071EA98FCD00DECC1A /* LaunchScreen.storyboard */; };
 		40C696141EA98FCD00DECC1A /* mbhp_testTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C696131EA98FCD00DECC1A /* mbhp_testTests.swift */; };
 		40C6961F1EA98FCD00DECC1A /* mbhp_testUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C6961E1EA98FCD00DECC1A /* mbhp_testUITests.swift */; };
+		40C6962E1EA991D500DECC1A /* Apartment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C6962D1EA991D500DECC1A /* Apartment.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		40C6961A1EA98FCD00DECC1A /* mbhp-testUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mbhp-testUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		40C6961E1EA98FCD00DECC1A /* mbhp_testUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mbhp_testUITests.swift; sourceTree = "<group>"; };
 		40C696201EA98FCD00DECC1A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		40C6962D1EA991D500DECC1A /* Apartment.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Apartment.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				40C696071EA98FCD00DECC1A /* LaunchScreen.storyboard */,
 				40C6960A1EA98FCD00DECC1A /* Info.plist */,
 				40C696021EA98FCD00DECC1A /* mbhp_test.xcdatamodeld */,
+				40C6962D1EA991D500DECC1A /* Apartment.swift */,
 			);
 			path = "mbhp-test";
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 			files = (
 				40C695FE1EA98FCD00DECC1A /* ViewController.swift in Sources */,
 				40C696041EA98FCD00DECC1A /* mbhp_test.xcdatamodeld in Sources */,
+				40C6962E1EA991D500DECC1A /* Apartment.swift in Sources */,
 				40C695FC1EA98FCD00DECC1A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
