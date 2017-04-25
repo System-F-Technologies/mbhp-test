@@ -36,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4025B3F01EAEBF0600EE256D /* type_properties.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = type_properties.playground; path = "treehouse notes/type_properties.playground"; sourceTree = "<group>"; };
 		40C695F81EA98FCD00DECC1A /* mbhp-test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "mbhp-test.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		40C695FB1EA98FCD00DECC1A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		40C695FD1EA98FCD00DECC1A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -109,6 +110,7 @@
 				40C6960A1EA98FCD00DECC1A /* Info.plist */,
 				40C696021EA98FCD00DECC1A /* mbhp_test.xcdatamodeld */,
 				40C6962D1EA991D500DECC1A /* Apartment.swift */,
+				4025B3F01EAEBF0600EE256D /* type_properties.playground */,
 			);
 			path = "mbhp-test";
 			sourceTree = "<group>";
@@ -511,6 +513,7 @@
 				40C696251EA98FCD00DECC1A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		40C696261EA98FCD00DECC1A /* Build configuration list for PBXNativeTarget "mbhp-testTests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +522,7 @@
 				40C696281EA98FCD00DECC1A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		40C696291EA98FCD00DECC1A /* Build configuration list for PBXNativeTarget "mbhp-testUITests" */ = {
 			isa = XCConfigurationList;
@@ -527,6 +531,7 @@
 				40C6962B1EA98FCD00DECC1A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
